@@ -618,8 +618,8 @@ import {
   
   const educations = [
     {
-      degree: "Bachelor of Engineering",
-      branch:"Computer Science",
+      degree: "Bachelor of Technology",
+      branch:"Computer Science and Engineering",
       name: "Shri Vaishnav Vidhyapeeth Vishwavidyalaya, Indore",
       year: "(2021 - 2025)",
       image: clg,
